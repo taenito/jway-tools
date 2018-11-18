@@ -2,7 +2,7 @@
     "name": "jway",
     "displayName": "JWAY Tools",
     "description": "JXML Formatting",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "taenito",
     "repository": {
         "type": "git",
