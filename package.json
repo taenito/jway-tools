@@ -6,7 +6,7 @@
     "publisher": "taenito",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/taenito/jway-tools.git"
+        "url": "https://github.com/taenito/jway-tools.git"
       },
     "engines": {
         "vscode": "^1.23.0"
